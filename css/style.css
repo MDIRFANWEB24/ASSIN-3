@@ -1,0 +1,68 @@
+body{margin:0; padding: 0; font-family: sans-serif;}
+
+a{text-decoration: none;}
+ul li{list-style-type: none;}
+.clr{clear: both;}
+
+.main{width:1100px; margin-left: auto; 
+	text-align:center;margin-right: auto;background:white;}
+
+
+.menu{width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+
+.darklogo{width:100px;margin-top: 0;padding-top: 20px;}
+
+.dark{width:20%;float: left;}
+
+.fark{width:80%;height:200px; background:white;float: left;text-align: right;}
+
+.fark ul li{display: inline-block;margin-top: 10px;}
+
+.fark ul li a{padding: 20px;color:#008CFF;text-transform: capitalize;}
+.fark ul li a:hover{color:#c71;font-size: 15px;}
+
+
+.header{width: 80%;text-align: center; margin-left: auto;
+	margin-right: auto; }
+.h1{color:#132C5C;font-size: 70px;text-align: center;}
+mark{color:#008CFF;background:none;}
+
+.leftright{width: 80%; 
+			margin-left: auto;margin-right: auto;
+			margin-top: 100px;
+		}
+
+
+			.left{width: 45%;  float: left;}
+			.leftp{font-family: tahome;color:#7B7A82;text-align: right;}
+
+			h1{ color:#F85C74;font-size: 70px;margin:0;text-align: right;}
+
+
+			.right{width: 45%;float: left;margin-left: 40px;}
+			.rightp{
+				color:#17285C;font-size: 50px;
+				margin-top: 0px;text-align: left;
+			 text-align: left;}
+			 .hhh{font-family: Arial; padding: 30px;color:#2e6dab;font-size: 15px;background: #FEEBED;border-radius: 10px;}
+			 .hh2{font-family: Arial;padding: 30px;color:#2e6dab;font-size: 15px;background:#EAF9F4;
+			 	 border-radius: 10px;}
+			 .hh3{font-family: Arial;padding: 30px;color:#2e6dab;font-size: 15px;background: #FFF2D7;
+			 	 border-radius: 10px;}
+
+
+			 .endimg{width:100%;margin-top: 50px;float:left; height:600px;text-align:left;margin-bottom: 50px;border-radius: 10px;}
+			 .img1{width:30%;float:left;background: #FEEBED;margin-right: 10px;text-align:left;border-radius: 10px;}
+			 .img2{width:30%;float:left;background: #EAF9F4;margin-right: 10px;text-align:left;border-radius: 10px;}
+			 .img3{width:30%;float:left;background: #FFF2D7;border-radius: 10px;}
+			 
+			 img{width:100%;margin-top: 70px;}
+			 p{color:gray;font-size: 16px; line-height: 1.6;}
+			
+			
+		
+
